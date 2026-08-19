@@ -1,3 +1,4 @@
+//Check whether a triangle can be formed with the given values for the angles. 
 import java.util.Scanner;
 class TriangleAngleCheck {
     public static void main(String[] args){

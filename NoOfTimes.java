@@ -1,4 +1,5 @@
 //write a program which takes two values x and y. Prints x of y number of times.
+
 import java.util.Scanner;
 class NoOfTimes{
     public static void main(String[] args){

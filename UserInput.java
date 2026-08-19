@@ -1,3 +1,5 @@
+//write a program that takes an integer, then a string, then a char from the 
+//user and prints them in the screen.
 import java.util.Scanner;
 public class UserInput {
     public static void main(String[] args) {
