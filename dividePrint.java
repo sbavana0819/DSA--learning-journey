@@ -1,7 +1,7 @@
 /*to print 
 Enter number: 20
 1 2 4 5 10 20 
-*/
+ */
 import java.util.Scanner;
 class dividePrint {
     public static void main(String[] args){
@@ -14,5 +14,6 @@ class dividePrint {
             }
         }
 
-    } 
+    }
+    
 }
